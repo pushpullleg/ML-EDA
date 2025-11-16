@@ -81,4 +81,4 @@ Let’s review the three proposed problems together before committing to the fin
 
 ---
 
-🧠 *Prepared and documented by Mukesh (MLEDA Iteration Lead)*
+🧠 *Prepared and documented by Mukesh*
