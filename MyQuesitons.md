@@ -66,3 +66,11 @@ SHAP	Explain which features drive predictions (required for interpretability)
 Does this clarify things? Let me know if you want me to expand on any point before we continue.
 
 Claude Opus 4.5 (Preview) • 1x
+
+
+
+
+10. Why u choosed xgboost instead of random forest? 
+
+11. what is the prediction for Texas A&M University-Commerce ? can you run it now ? 
+
